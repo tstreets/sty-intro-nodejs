@@ -1,0 +1,23 @@
+{
+  "name": "intro-nodejs",
+  "version": "1.0.0",
+  "description": "This series covers the basic for node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstreets/sty-intro-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstreets/sty-intro-nodejs/issues"
+  },
+  "homepage": "https://github.com/tstreets/sty-intro-nodejs#readme",
+  "dependencies": {
+    "mime-types": "^2.1.28"
+  }
+}
